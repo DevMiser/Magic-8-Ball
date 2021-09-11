@@ -1,8 +1,9 @@
 # Magic-8-Ball
-Magic 8 Ball Responses
+Magic 8 Ball 
 Parts List
 
 Raspberry Pi Zero W
+
 https://www.adafruit.com/product/3400
 
 I2S 3-Watt Class D Amplifier
