@@ -1,3 +1,5 @@
+See my youtube video for a demonstration: https://youtu.be/fO451Tp07-s
+
 # Magic-8-Ball
 Magic 8 Ball 
 Parts List
