@@ -1,6 +1,6 @@
 See my youtube video for a demonstration: https://youtu.be/fO451Tp07-s
 
-![image](https://user-images.githubusercontent.com/22980908/233851376-fac6ebae-9c02-4e54-993c-f039685cd307.png)
+![image](https://user-images.githubusercontent.com/22980908/233851508-0b23b01c-737b-444f-9c34-da927d696c84.png)
 
 # Talking Magic-8-Ball
 Magic 8 Ball 
