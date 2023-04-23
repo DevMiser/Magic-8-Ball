@@ -1,5 +1,7 @@
 See my youtube video for a demonstration: https://youtu.be/fO451Tp07-s
 
+![image](https://user-images.githubusercontent.com/22980908/233851304-b126c510-13b0-4e27-b10a-4bc6683d0064.png)
+
 # Talking Magic-8-Ball
 Magic 8 Ball 
 Parts List
